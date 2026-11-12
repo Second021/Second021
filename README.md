@@ -1,13 +1,8 @@
-# SINENTLANTLA  TSHANGASE
+# SINENTLANTLA TSHANGASE
 
 **Aspiring Software Developer | Data Analytics**
 
 I am an aspiring Software Developer with an interest in software development, web technologies and data analytics. I am committed to developing my technical abilities, applying problem-solving skills and creating practical digital solutions.
-
-
-
-\
-
 
 ---
 
@@ -64,8 +59,7 @@ The portfolio includes:
 
 ---
 
-\<div align="center">
+
 
 **Thank you for taking the time to review my profile.**
 
-\</div>

@@ -1,133 +1,122 @@
 <div align="center">
 
-# 🟢 SINENTLANTLA TSHANGASE
+# Sinentlantla Tshangase
 
-### 💻 Aspiring Software Developer × 📊 Data Analytics
+**Aspiring Software Developer | Data Analytics**
 
-**Final-Year BSc Information Technology Student | North-West University 🇿🇦**
+Final-Year BSc Information Technology Student, North-West University, South Africa
 
 <p>
-  <a href="https://github.com/Second021">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://second021.github.io/Snentlantla-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-
+  <a href="https://second021.github.io/Snentlantla-portfolio/TSHANGASE_CV_1804.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download CV">
+  </a>
   <a href="https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  <a href="https://second021.github.io/Snentlantla-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <a href="mailto:sinentlantlatshangase02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-🌱 Learn • 💻 Build • 📊 Analyse • 🚀 Grow
 
 </div>
 
 ---
 
-## 👋 About Me
+## Profile
 
-I'm **Sinentlantla Tshangase**, a Final-year **BSc Information Technology student** passionate about **Software Development** and **Data Analytics**. I enjoy solving problems, building practical solutions, working with databases and exploring data.
+Final-year BSc Information Technology student at North-West University with a strong interest in **software development** and **data analytics**. I enjoy solving problems, building practical solutions, working with databases and analysing data.
 
-🎯 My goal is to grow as a **Software Developer** while developing my skills in **Data Analytics** and gaining real-world industry experience.
+**Goal:** To grow as a Software Developer while building my skills in Data Analytics and gaining real-world industry experience.
+
+| | |
+|---|---|
+| **Location** | Johannesburg, South Africa |
+| **Focus** | Software Development and Data Analytics |
+| **Education** | BSc Information Technology (2023 – Present) |
+| **Status** | Open to internships and graduate opportunities |
 
 ---
 
-## 🛠️ My 5 Main Skills
+## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,mysql">
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,mysql&theme=dark" alt="Skills">
 </p>
 
-**☕ Java** · **⚙️ C++** · **🟣 C#** · **🐍 Python** · **🗄️ SQL**
+| Technology | Focus Area |
+|---|---|
+| **Java** | Programming and object-oriented development |
+| **C++** | Programming, logic and file handling |
+| **C#** | Application development |
+| **Python** | Programming and data analytics |
+| **SQL** | Database management and data retrieval |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🐾 Pet Management System
-
-A software project for managing pet information using programming concepts and file handling.
-
-`C++` · `OOP` · `File Handling`
-
----
-
-### 🗄️ Database Management Projects
-
-Relational database projects involving database design, SQL queries, relationships and data retrieval.
-
-`SQL` · `Database Design` · `ERD`
+| Project | Description | Tags |
+|---|---|---|
+| **[isibuko-website](https://second021.github.io/isibuko-website/)** | A website project available as a live demo. | `Web Development` `Live Demo` |
+| **umzimkhulu-connect** | A web project focused on connecting people and information in the Umzimkhulu community. | `Web Development` `Community` |
+| **HelpLift** | A collaborative group project developed through teamwork and shared contributions. | `Group Project` `Teamwork` |
 
 ---
 
-### 📊 Fitness Tracker Data Analysis
+## Experience
 
-Used **Python and K-Means clustering** to analyse fitness tracker data and identify patterns.
+**General Worker** | Brumby Shoe Components | 2022 – 2023
 
-`Python` · `K-Means` · `Data Analytics`
-
----
-
-## 🎓 Education
-
-🎓 **BSc Information Technology** — North-West University | 2023 – Present
-
-🏫 **National Senior Certificate** — Ncomani High School | 2020 – 2021
+- Worked as part of a team to meet daily targets and complete assigned responsibilities.
+- Developed skills in communication, reliability, discipline, teamwork and time management.
 
 ---
 
-## 💼 Experience
+## Education
 
-**General Worker — Brumby Shoe Components** | 2022 – 2023
-
-Developed valuable skills in **teamwork, communication, reliability, discipline, adaptability and time management**.
-
----
-
-## 🛡️ Certification
-
-🔐 **Introduction to Cybersecurity** — Cisco Networking Academy | 2025
+| Qualification | Institution | Period |
+|---|---|---|
+| BSc Information Technology | North-West University | 2023 – Present |
+| National Senior Certificate | Ncomani High School | 2020 – 2021 |
 
 ---
 
-## 🌐 Virtual CV Portfolio
+## Certification
 
-A modern digital CV built with **HTML5 and CSS3**, showcasing my skills, education, experience, projects, certification and downloadable professional documents.
+**Introduction to Cybersecurity** | Cisco Networking Academy | 2025
 
-🛠️ **Built with:** HTML5 · CSS3 · Visual Studio Code · GitHub
-
-🔗 **Live Portfolio:**  
-https://second021.github.io/Snentlantla-portfolio/
+Foundational knowledge of cybersecurity concepts and digital security.
 
 ---
 
-## 📬 Connect With Me
+## Virtual CV Portfolio
 
-📍 Johannesburg, South Africa  
+A black and white, glass-style digital CV built with HTML5 and CSS3. It presents my skills, education, experience, projects, certification and downloadable documents.
 
-📧 **sinentlantlatshangase02@gmail.com**
+- **Live site:** [second021.github.io/Snentlantla-portfolio](https://second021.github.io/Snentlantla-portfolio/)
+- **Built with:** HTML5, CSS3, Visual Studio Code, GitHub Pages
 
-📱 **076 591 3190**
+---
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2
+## Contact
 
-💻 GitHub:  
-https://github.com/Second021
-
-🌐 Portfolio:  
-https://second021.github.io/Snentlantla-portfolio/
+| | |
+|---|---|
+| **Email** | [sinentlantlatshangase02@gmail.com](mailto:sinentlantlatshangase02@gmail.com) |
+| **Phone** | 076 591 3190 |
+| **LinkedIn** | [sinentlantla-tshangase](https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2) |
+| **GitHub** | [Second021](https://github.com/Second021) |
+| **Portfolio** | [second021.github.io/Snentlantla-portfolio](https://second021.github.io/Snentlantla-portfolio/) |
 
 ---
 
 <div align="center">
 
-### 🌿 SOFTWARE DEVELOPMENT × DATA ANALYTICS
+**Software Development × Data Analytics**
 
-**Learning. Building. Growing. 🚀**
-
-⭐ Thanks for visiting my profile!
+Thank you for visiting my profile.
 
 </div>

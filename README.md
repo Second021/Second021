@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4a4a4a&height=230&section=header&text=Sinentlantla%20Tshangase&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Data%20Analytics&descAlignY=58&descSize=18" width="100%" alt="Header">
+<img src="https://raw.githubusercontent.com/Second021/Snentlantla-portfolio/main/assets/banner.svg" width="100%" alt="Sinentlantla Tshangase">
 
-<a href="https://github.com/Second021/Snentlantla-portfolio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6E7681&center=true&vCenter=true&width=640&lines=Final-Year+BSc+Information+Technology+Student;North-West+University%2C+South+Africa;Software+Development+%C3%97+Data+Analytics;Learn+%E2%80%A2+Build+%E2%80%A2+Analyse+%E2%80%A2+Grow" alt="Typing animation">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6E7681&center=true&vCenter=true&width=640&lines=Final-Year+BSc+Information+Technology+Student;Building+Practical+Software+Solutions;Exploring+Data+and+Analytics;Learn+%E2%80%A2+Build+%E2%80%A2+Analyse+%E2%80%A2+Grow" alt="Typing animation">
 
 <br><br>
 
@@ -47,7 +45,7 @@ I'm a final-year **BSc Information Technology** student at **North-West Universi
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,mysql,html,css,git,github,vscode&theme=dark" alt="Skills">
+  <img src="https://raw.githubusercontent.com/Second021/Snentlantla-portfolio/main/assets/skills.svg" width="100%" alt="Skills: Java, C++, C#, Python, SQL">
 </p>
 
 | Technology | What I use it for |
@@ -104,15 +102,6 @@ I'm a final-year **BSc Information Technology** student at **North-West Universi
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Second021&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Second021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages">
-</p>
-
-<br>
-
 ## 🌐 Virtual CV Portfolio
 
 A black and white, glass-style digital CV built with **HTML5** and **CSS3**. It presents my skills, education, experience, projects, certification and downloadable documents.
@@ -133,10 +122,12 @@ A black and white, glass-style digital CV built with **HTML5** and **CSS3**. It 
 | 💻 **GitHub** | [Second021](https://github.com/Second021) |
 | 🌐 **Portfolio** | [second021.github.io/Snentlantla-portfolio](https://second021.github.io/Snentlantla-portfolio/) |
 
+<br>
+
 <div align="center">
 
-**⭐ Thanks for visiting my profile!**
+<img src="https://raw.githubusercontent.com/Second021/Snentlantla-portfolio/main/assets/footer.svg" width="100%" alt="Software Development × Data Analytics">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:000000&height=120&section=footer" width="100%" alt="Footer">
+⭐ Thanks for visiting my profile!
 
 </div>

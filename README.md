@@ -1,80 +1,63 @@
-SINENTLANTLA TSHANGASE
+# Sinentlantla Tshangase
 
-Aspiring Software Developer | Data Analytics Enthusiast
+**Aspiring Software Developer | Data Analytics Enthusiast**
 
-Johannesburg, South Africa
+I am an aspiring Software Developer interested in web development, data analytics and technology. I enjoy creating practical digital solutions, learning new technologies and developing my technical skills.
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://second021.github.io/Snentlantla-portfolio/)
+[![CV](https://img.shields.io/badge/Download_CV-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://second021.github.io/Snentlantla-portfolio/TSHANGASE_CV_1804.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Second021)
 
-<a href="https://second021.github.io/Snentlantla-portfolio/">
-<img src="https://img.shields.io/badge/MY%20PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://second021.github.io/Snentlantla-portfolio/TSHANGASE_CV_1804.pdf">
-<img src="https://img.shields.io/badge/DOWNLOAD%20CV-555555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+---
 
-<br/><br/>
+## 🛠️ Skills & Technologies
 
-<a href="https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Second021"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="mailto:sinentlantlatshangase02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Java
+- Git & GitHub
+- Visual Studio Code
 
-</div>
+---
 
-👨‍💻 About Me
+## 🚀 Projects
 
-I am an aspiring Software Developer interested in web development, data analytics and technology. I enjoy building practical digital solutions, solving problems and continuously improving my technical skills.
+Here are some of my development projects:
 
-🛠️ Skills & Technologies
+- **[Isibuko Website](https://second021.github.io/isibuko-website/)** – A website project available to explore online.
+- **Umzimkhulu Connect** – A community-focused platform for connecting people and sharing information. *(Coming soon)*
+- **HelpLift** – A collaborative group project developed through teamwork.
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode&theme=light"/>
+## 🌐 Virtual CV & Portfolio
 
-</div>
+I created a digital CV using HTML5 and CSS3 to showcase my professional profile.
 
-🚀 Projects
+The portfolio includes:
 
-🌐 Isibuko Website
+- Education
+- Technical skills
+- Experience
+- Projects
+- Certifications
+- Downloadable CV
 
-A web development project showcasing my practical website development skills.
+**[Visit My Portfolio](https://second021.github.io/Snentlantla-portfolio/)**
 
-View Live Demo →
+---
 
-📍 Umzimkhulu Connect
+## 📬 Contact
 
-A community-focused web project aimed at connecting people and sharing information.
+- **Email:** [sinentlantlatshangase02@gmail.com](mailto:sinentlantlatshangase02@gmail.com)
+- **Phone:** 076 591 3190
+- **Location:** Johannesburg, South Africa
+- **LinkedIn:** [Sinentlantla Tshangase](https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2)
+- **GitHub:** [Second021](https://github.com/Second021)
 
-Coming Soon
+---
 
-🤝 HelpLift
-
-A collaborative group project developed through teamwork and shared contributions.
-
-Group Project
-
-💼 Virtual CV & Portfolio
-
-My digital portfolio showcases my professional profile, education, skills, experience, projects and certifications.
-
-Explore My Portfolio →
-
-📬 Get in Touch
-
-📧 Email: sinentlantlatshangase02@gmail.com
-
-📱 Phone: 076 591 3190
-
-📍 Location: Johannesburg, South Africa
-
-💼 LinkedIn: Connect with me
-
-💻 GitHub: @Second021
-
-<div align="center">
-
-Thank you for visiting my profile!
-
-Learning • Building • Growing
-
-</div>
+⭐ Thank you for visiting my profile!
